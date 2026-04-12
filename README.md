@@ -76,6 +76,7 @@ Most notebooks rely on standard scientific Python libraries:
 ```
 numpy
 scipy
+sympy
 matplotlib
 jupyter
 ```

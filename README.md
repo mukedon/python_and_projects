@@ -9,7 +9,7 @@ A collection of Python notebooks and scripts exploring scientific computing, num
 ### Monte Carlo Simulations
 **`monte_carlo_sims/`**
 
-Probabilistic simulations using random sampling to approximate mathematical results. Covers classic applications such as estimating π, integration, and stochastic modeling. Demonstrates the power of repeated random trials for solving deterministic problems.
+Probabilistic simulations using random sampling to approximate mathematical results. Covers classic applications such as estimating π, integration, brownian motion and stochastic modeling. Demonstrates the power of repeated random trials for solving deterministic problems.
 
 ---
 

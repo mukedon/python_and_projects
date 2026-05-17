@@ -37,7 +37,7 @@ A simulation of Sir Francis Galton's physical device that demonstrates the emerg
 ### Feedback Trajectories
 **`feedback_trajectories/`**
 
-Exploration of dynamical systems with feedback. Simulates how systems evolve when outputs feed back into inputs — covering concepts like fixed points, limit cycles, and convergence behavior.
+Exploration of dynamical systems with feedback. Simulates how systems evolve when outputs feed back into inputs — covering concepts like fixed points, limit cycles, and convergence behavior. Lately, an early and primitive Monte Carlo Simulation of it with a possible connection to mathematical modelling of the gut-liver-lung axis as a network of tipping elements has been added.
 
 ---
 

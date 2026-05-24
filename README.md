@@ -101,7 +101,7 @@ pip install numpy scipy matplotlib jupyter stim pymatching
 Clone the repository and launch Jupyter:
 
 ```bash
-git clone https://github.com/mukedon/python_studies.git
+git clone https://github.com/mukedon/python_and_projects.git
 cd python_studies
 jupyter notebook
 ```

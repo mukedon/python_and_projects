@@ -1,6 +1,7 @@
 ## Interactive Simulation (Temp)
 
 Full source code: [`oscillator_app.py`](./oscillator_app.py)
+Full source code: [`driven_oscillator_app.py`](./driven_oscillator_app.py)
 
 ### ▶️ Run in your browser (no install)
 

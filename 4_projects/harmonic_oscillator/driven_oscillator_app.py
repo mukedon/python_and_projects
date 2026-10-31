@@ -93,7 +93,7 @@ fig.suptitle(
 
 fig.text(
     0.50,
-    0.945,
+    0.935,
     "Explore resonance, phase lag, and steady-state motion",
     ha="center",
     fontsize=10,

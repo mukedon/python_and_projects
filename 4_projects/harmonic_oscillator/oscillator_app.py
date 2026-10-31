@@ -155,7 +155,7 @@ fig.suptitle(
 
 fig.text(
     0.39,
-    0.935,
+    0.925,
     "Explore displacement, energy, and phase space",
     fontsize=10,
     color=MUTED,
